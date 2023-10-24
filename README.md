@@ -1,16 +1,12 @@
-# send_mail_flutter
+# Send Mail in Flutter using mailer
 
-A new Flutter project.
+the repository containes the code to send mail to users directly from flutter app
 
-## Getting Started
+## 📺 [Video Link](https://youtu.be/IiSFzFs5yc0)
 
-This project is a starting point for a Flutter application.
+![SEND-MAI2L](https://github.com/Snehasis4321/send_mail_flutter/assets/96995340/cf52f0c9-c65d-45f0-bb46-818c74b744b9)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+[Video Link](https://youtu.be/IiSFzFs5yc0)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
